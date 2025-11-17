@@ -1,2 +1,2 @@
-# DemoProject
+# DemoBranch
 To understand the usage of branches - pull and push
